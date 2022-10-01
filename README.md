@@ -9,7 +9,7 @@
 
 - 🔭 We’re currently working on **Tutors Hub**
 
-- 📫 How to reach me **noobcoders404@outlook.com**
+- 📫 How to reach us **noobcoders404@outlook.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
